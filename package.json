@@ -1,6 +1,16 @@
 {
+  "name": "DiscordBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bot.js",
   "dependencies": {
     "discord.js": "^13.6.0",
     "dotenv": "^14.2.0"
-  }
+  },
+  "scripts": {
+    "test": "node ./bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
